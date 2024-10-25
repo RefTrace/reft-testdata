@@ -1,0 +1,1 @@
+Channel.fromPath(params.fasta)

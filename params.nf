@@ -1,0 +1,1 @@
+params.ascat_alleles           = getGenomeAttribute('ascat_alleles')

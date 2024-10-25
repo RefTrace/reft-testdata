@@ -1,0 +1,1 @@
+dbsnp_vqsr                  = params.dbsnp_vqsr         ?   Channel.value(params.dbsnp_vqsr)        : Channel.empty()

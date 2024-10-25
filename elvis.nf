@@ -1,0 +1,1 @@
+ascat_genome                = params.ascat_genome       ?:  Channel.empty()

@@ -1,0 +1,1 @@
+def subject = "$workflow.runName"
