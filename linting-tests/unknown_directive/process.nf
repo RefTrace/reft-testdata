@@ -1,0 +1,3 @@
+process FOO {
+    bar 'wat'
+}
