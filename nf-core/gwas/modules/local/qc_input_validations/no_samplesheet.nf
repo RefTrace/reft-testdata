@@ -9,4 +9,4 @@ process NO_SAMPLESHEET {
         mkdir -p plates
         sampleqc.py 0 0 0 poorgc10.lst plates/crgc10.tex
         """
-    }
+}
